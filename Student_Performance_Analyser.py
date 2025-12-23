@@ -66,4 +66,3 @@ if su.button("Show Chart"): #chart generate
     su.subheader(f"Your Strong Point is in {labels[least]}") #it provides labels whose value is least
     su.write("You are going good in this ,keep it up 😊")
 
- ye rha code maine jitna bnya tha tumko jo bhi AI ya parent wala add krni ho improve krna ho add kr dena
